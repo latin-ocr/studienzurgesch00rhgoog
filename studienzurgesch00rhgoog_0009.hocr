@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studienzurgesch00rhgoog_0009.png"; bbox 0 0 2956 4800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 207 374 235 450">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 207 374 235 450">
+     <span class='ocr_line' id='line_1_1' title="bbox 207 374 235 450; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 207 374 235 450; x_wconf 77' lang='grc' dir='ltr'>Θ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 240 714 1100 831">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 240 714 1100 831">
+     <span class='ocr_line' id='line_1_2' title="bbox 240 714 1100 831; baseline -0.006 0"><span class='ocrx_word' id='word_1_2' title='bbox 240 718 509 831; x_wconf 78' lang='lat' dir='ltr'>STUDIEN</span> <span class='ocrx_word' id='word_1_3' title='bbox 546 717 674 829; x_wconf 87' lang='lat' dir='ltr'><strong>ZUR</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 711 714 1100 828; x_wconf 78' lang='lat' dir='ltr'>GESOHIOHTE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 135 1367 1203 1534">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 135 1367 1203 1534">
+     <span class='ocr_line' id='line_1_3' title="bbox 135 1367 1203 1534; baseline 0 -5"><span class='ocrx_word' id='word_1_5' title='bbox 135 1367 549 1534; x_wconf 70' lang='lat' dir='ltr'><strong>FUNFTEN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 611 1395 1203 1534; x_wconf 68' lang='lat' dir='ltr'>KREUZZUGES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 416 2259 920 2360">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 416 2259 920 2360">
+     <span class='ocr_line' id='line_1_4' title="bbox 416 2259 920 2360; baseline -0.002 -25"><span class='ocrx_word' id='word_1_7' title='bbox 416 2275 649 2335; x_wconf 74' lang='lat' dir='ltr'>REmHoLD</span> <span class='ocrx_word' id='word_1_8' title='bbox 672 2259 920 2360; x_wconf 62' lang='lat' dir='ltr'><strong>ssbflfficnr.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 455 3896 1160 4303">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 455 3896 1160 4303">
+     <span class='ocr_line' id='line_1_5' title="bbox 515 3896 823 4070; baseline 0.01 -3"><span class='ocrx_word' id='word_1_9' title='bbox 515 3896 823 4070; x_wconf 44' lang='lat' dir='ltr'>INNSBCR&#39;UOK.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 455 4105 1160 4164; baseline 0.003 -4"><span class='ocrx_word' id='word_1_10' title='bbox 455 4115 474 4160; x_wconf 77' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_11' title='bbox 509 4115 667 4162; x_wconf 73' lang='lat' dir='ltr'>ER&#39;SOHEN</span> <span class='ocrx_word' id='word_1_12' title='bbox 685 4105 1160 4164; x_wconf 67' lang='lat' dir='ltr'><strong>UNIVERSITKTs-BUOHHANDLUNG.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 627 4239 721 4303; baseline -0.011 0"><span class='ocrx_word' id='word_1_13' title='bbox 627 4239 721 4303; x_wconf 87' lang='lat'>1891.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1482 4800">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1482 4800">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1482 4800; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1482 4800; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
